@@ -21,7 +21,7 @@ The Dice Game is a classic game where players roll dice and try to achieve certa
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/your-username/dice-game.git](https://github.com/nitesho4/Dice-game.git)
+   git clone https://github.com/nitesho4/Dice-game.git
 
 Open the index.html file in your web browser.
 Usage
