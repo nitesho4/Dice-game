@@ -28,7 +28,7 @@ Usage
 Click on the dice or a designated button to roll.
 The result of the roll will be displayed, and points (if any) will be added to your score.
 [Explain any additional features or controls]
-Contributing
+Contributing 
 If you would like to contribute to this project, you can follow these steps:
 
 Fork the repository
